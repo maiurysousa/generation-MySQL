@@ -1,5 +1,5 @@
 <div><h3> <img width="25px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" title="source: imgur.com" /> &nbsp<em> MySQL</em> </div>
-+ SGDB - Sistema de Gerenciamento de Dados.
+• SGDB - Sistema de Gerenciamento de Dados.
  
 #
 <div><h3><b>Breve Introdução</b></div>  
