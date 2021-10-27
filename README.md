@@ -31,6 +31,9 @@ Exemplo SQL e DER(<a href="https://github.com/maiurysousa/generation-MySQL/tree/
   - Relacionamentos, Consultas, Join;
   - Exemplos e Exercícios.
   ##
+ • <b>JOIN</b><br>
+ Uma cláusula JOIN em SQL, correspondente a uma operação de junção em álgebra relacional, combina colunas de uma ou mais tabelas em um banco de dados relacional.<br>
+ 
   <b>Exemplos</b>
   Exemplo - Trabalhando com o Join (<a href="https://github.com/maiurysousa/generation-MySQL/blob/main/Aula-03/Exemplos/base_cidade_das_carnes.sql" target="_blank">base_cidade_das_carnes.sql</a>);
 
