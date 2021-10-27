@@ -9,7 +9,7 @@
   <p><b>BD</b> -  Onde são reúnidos dados ou informações para que, quando necessário, de maneira organizada serem acessados de forma fácil e rápida, podendo assim serem feitas as alterações ou exclusões das mesmas. 
 <br>
 
- • <b>Dados Relacionnais </b><br>
+ • <b>Dados Relacionais </b><br>
     Tem como base a forma de tabela podendo manter o relacionamento entre variás por meio das <em>Chaves Primaria e Estrangeira</em> possuindo uma integridade maior dos dados, porém sua velocidade é reduzida.
 <br><br>
  • <b>Dados Não Relacionais </b><br>
