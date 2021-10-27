@@ -39,7 +39,7 @@ Exemplo SQL e DER(<a href="https://github.com/maiurysousa/generation-MySQL/tree/
 
 ## Aula-04
 
-Construção do DER - Diagrama de Entidade e Relacionamentos (<a href="" target="_blank">Clique aqui</a>).
+Construção do DER - Diagrama de Entidade e Relacionamentos (<a href="https://github.com/maiurysousa/generation-MySQL/tree/main/Aula-04/Exemplos" target="_blank">Clique aqui</a>).
   
 
 
