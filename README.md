@@ -1,3 +1,10 @@
+<div align="center"> 
+<img width="250px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" target="_blank">
+ <hr>
+  <h2>O MsQL é um sistema de gerenciamento de banco de dados que permite aos desenvolvedores implementarem e desenvolverem rapidamente aplicações, usando o banco de dados de código aberto.</h2>
+</div>
+
+
 <div><h3> <img width="25px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png"/> &nbsp<em> MySQL</em> </div>
 • SGDB - Sistema de Gerenciamento de Dados.
  
